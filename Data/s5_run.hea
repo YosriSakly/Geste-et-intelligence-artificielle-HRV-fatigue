@@ -1,0 +1,17 @@
+s5_run 15 256 78849
+s5_run.dat 16 22.0905(-1206)/mV 0 0 -893 9367 0 chest_ecg
+s5_run.dat 16 43.2562(-56851)/mV 0 0 2979 14253 0 wrist_ppg
+s5_run.dat 16 257.2188(3439)/degs^-1 0 0 -12398 6158 0 wrist_gyro_x
+s5_run.dat 16 65.3153(366)/degs^-1 0 0 -3402 5657 0 wrist_gyro_y
+s5_run.dat 16 109.757(-1761)/degs^-1 0 0 -18539 -10885 0 wrist_gyro_z
+s5_run.dat 16 2239.2333(4833)/ms^-2 0 0 1037 13142 0 wrist_low_noise_accelerometer_x
+s5_run.dat 16 3963.449(-51986)/ms^-2 0 0 -18880 5730 0 wrist_low_noise_accelerometer_y
+s5_run.dat 16 3294.0871(-10209)/ms^-2 0 0 -11403 3809 0 wrist_low_noise_accelerometer_z
+s5_run.dat 16 3779.9196(8889)/ms^-2 0 0 1922 -19605 0 wrist_wide_range_accelerometer_x
+s5_run.dat 16 4344.0074(-53726)/ms^-2 0 0 -17561 -12519 0 wrist_wide_range_accelerometer_y
+s5_run.dat 16 4078.5517(-3683)/ms^-2 0 0 -5891 -31373 0 wrist_wide_range_accelerometer_z
+s5_run.dat 16 49338.4791(-30638)/Ga 0 0 10261 3182 0 wrist_mag_x
+s5_run.dat 16 69537.4868(-11975)/Ga 0 0 8130 -2252 0 wrist_mag_y
+s5_run.dat 16 54902.8014(-43271)/Ga 0 0 57 -18316 0 wrist_mag_z
+s5_run.dat 16 1092.3062(-32768)/s 0 0 30582 -12189 0 sample_times_for_all_signals_apart_from_ecg
+#Running_5.5 km/h

@@ -1,0 +1,17 @@
+s3_high_resistance_bike 15 256 71937
+s3_high_resistance_bike.dat 16 12.1749(4055)/mV 0 0 4224 24346 0 chest_ecg
+s3_high_resistance_bike.dat 16 243.9435(-331773)/mV 0 0 6921 -18421 0 wrist_ppg
+s3_high_resistance_bike.dat 16 417.4243(-3991)/degs^-1 0 0 -5798 -27637 0 wrist_gyro_x
+s3_high_resistance_bike.dat 16 150.1425(-7296)/degs^-1 0 0 -5953 -7622 0 wrist_gyro_y
+s3_high_resistance_bike.dat 16 381.0544(8606)/degs^-1 0 0 10082 -21988 0 wrist_gyro_z
+s3_high_resistance_bike.dat 16 2595.8982(-18873)/ms^-2 0 0 -1752 24293 0 wrist_low_noise_accelerometer_x
+s3_high_resistance_bike.dat 16 3533.1827(2685)/ms^-2 0 0 -4950 32593 0 wrist_low_noise_accelerometer_y
+s3_high_resistance_bike.dat 16 3263.8222(-30871)/ms^-2 0 0 -7251 30963 0 wrist_low_noise_accelerometer_z
+s3_high_resistance_bike.dat 16 2912.4749(-22203)/ms^-2 0 0 -3518 7332 0 wrist_wide_range_accelerometer_x
+s3_high_resistance_bike.dat 16 3683.9371(1756)/ms^-2 0 0 -6507 21207 0 wrist_wide_range_accelerometer_y
+s3_high_resistance_bike.dat 16 3333.3853(-30869)/ms^-2 0 0 -7233 -13679 0 wrist_wide_range_accelerometer_z
+s3_high_resistance_bike.dat 16 69827.2702(33339)/Ga 0 0 15071 -25630 0 wrist_mag_x
+s3_high_resistance_bike.dat 16 69537.4868(-43387)/Ga 0 0 7021 -24043 0 wrist_mag_y
+s3_high_resistance_bike.dat 16 57627.7566(14755)/Ga 0 0 -24575 30158 0 wrist_mag_z
+s3_high_resistance_bike.dat 16 1092.3062(-32767)/s 0 0 -17479 11826 0 sample_times_for_all_signals_apart_from_ecg
+#High resistance biking_level 8
