@@ -1,0 +1,17 @@
+s9_walk 15 256 56321
+s9_walk.dat 16 20.0036(-3255)/mV 0 0 -2222 -28511 0 chest_ecg
+s9_walk.dat 16 36.5715(-54656)/mV 0 0 11146 7374 0 wrist_ppg
+s9_walk.dat 16 293.848(1926)/degs^-1 0 0 -2664 24131 0 wrist_gyro_x
+s9_walk.dat 16 133.5964(-556)/degs^-1 0 0 -20100 11519 0 wrist_gyro_y
+s9_walk.dat 16 193.4378(-4898)/degs^-1 0 0 17615 200 0 wrist_gyro_z
+s9_walk.dat 16 9380.789(-18218)/ms^-2 0 0 17346 30245 0 wrist_low_noise_accelerometer_x
+s9_walk.dat 16 7870.6996(86124)/ms^-2 0 0 12692 23505 0 wrist_low_noise_accelerometer_y
+s9_walk.dat 16 9086.3871(-20832)/ms^-2 0 0 -6087 23601 0 wrist_low_noise_accelerometer_z
+s9_walk.dat 16 9410.7977(-18300)/ms^-2 0 0 16262 -27018 0 wrist_wide_range_accelerometer_x
+s9_walk.dat 16 7915.0501(86424)/ms^-2 0 0 11808 1479 0 wrist_wide_range_accelerometer_y
+s9_walk.dat 16 8983.2766(-21174)/ms^-2 0 0 -6999 17292 0 wrist_wide_range_accelerometer_z
+s9_walk.dat 16 65900.2533(7508)/Ga 0 0 -7199 3112 0 wrist_mag_x
+s9_walk.dat 16 72679.6523(-11035)/Ga 0 0 -4055 8417 0 wrist_mag_y
+s9_walk.dat 16 60991.2443(45833)/Ga 0 0 -8670 21077 0 wrist_mag_z
+s9_walk.dat 16 1092.3062(-32768)/s 0 0 -18571 7142 0 sample_times_for_all_signals_apart_from_ecg
+#Walking_3 km/h
