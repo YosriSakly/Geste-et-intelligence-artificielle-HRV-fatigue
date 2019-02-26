@@ -1,3 +1,3 @@
 sourceName,sourceVersion,device,type,unit,creationDate,startDate,endDate,value
-"Tazi’s Apple Watch","5.1.3","<<HKDevice: 0x2828cc820>, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch4,3, software:5.1.3>","HeartRateVariabilitySDNN","ms",2019-02-14 09:16:08 +0100,2019-02-14 09:15:03 +0100,2019-02-14 09:16:08 +0100,71.6955
-"Tazi’s Apple Watch","5.1.3","<<HKDevice: 0x2828cc370>, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch4,3, software:5.1.3>","HeartRateVariabilitySDNN","ms",2019-02-16 14:10:38 +0100,2019-02-16 14:09:27 +0100,2019-02-16 14:10:38 +0100,157.061
+"Tazi’s Apple Watch","5.1.3","<<HKDevice: 0x283484910>, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch4,3, software:5.1.3>","HeartRateVariabilitySDNN","ms",2019-02-14 09:16:08 +0100,2019-02-14 09:15:03 +0100,2019-02-14 09:16:08 +0100,71.6955
+"Tazi’s Apple Watch","5.1.3","<<HKDevice: 0x2834849b0>, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch4,3, software:5.1.3>","HeartRateVariabilitySDNN","ms",2019-02-16 14:10:38 +0100,2019-02-16 14:09:27 +0100,2019-02-16 14:10:38 +0100,157.061
