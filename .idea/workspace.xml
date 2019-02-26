@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab2e6720-7734-4e0b-9049-eda8b6426db1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/copy_louis-checkpoint.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/yanis filtre-checkpoint.ipynb" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ActiveEnergyBurned.csv" afterPath="$PROJECT_DIR$/ActiveEnergyBurned.csv" />
-      <change beforePath="$PROJECT_DIR$/ActivitySummary.csv" afterPath="$PROJECT_DIR$/ActivitySummary.csv" />
-      <change beforePath="$PROJECT_DIR$/AppleExerciseTime.csv" afterPath="$PROJECT_DIR$/AppleExerciseTime.csv" />
-      <change beforePath="$PROJECT_DIR$/BasalEnergyBurned.csv" afterPath="$PROJECT_DIR$/BasalEnergyBurned.csv" />
-      <change beforePath="$PROJECT_DIR$/DistanceWalkingRunning.csv" afterPath="$PROJECT_DIR$/DistanceWalkingRunning.csv" />
-      <change beforePath="$PROJECT_DIR$/FlightsClimbed.csv" afterPath="$PROJECT_DIR$/FlightsClimbed.csv" />
-      <change beforePath="$PROJECT_DIR$/HeartRate.csv" afterPath="$PROJECT_DIR$/HeartRate.csv" />
-      <change beforePath="$PROJECT_DIR$/HeartRateVariabilitySDNN.csv" afterPath="$PROJECT_DIR$/HeartRateVariabilitySDNN.csv" />
-      <change beforePath="$PROJECT_DIR$/RestingHeartRate.csv" afterPath="$PROJECT_DIR$/RestingHeartRate.csv" />
-      <change beforePath="$PROJECT_DIR$/StepCount.csv" afterPath="$PROJECT_DIR$/StepCount.csv" />
-      <change beforePath="$PROJECT_DIR$/WalkingHeartRateAverage.csv" afterPath="$PROJECT_DIR$/WalkingHeartRateAverage.csv" />
-      <change beforePath="$PROJECT_DIR$/Workout.csv" afterPath="$PROJECT_DIR$/Workout.csv" />
-      <change beforePath="$PROJECT_DIR$/copy_louis.ipynb" afterPath="$PROJECT_DIR$/copy_louis.ipynb" />
-      <change beforePath="$PROJECT_DIR$/export.xml" afterPath="$PROJECT_DIR$/export.xml" />
-      <change beforePath="$PROJECT_DIR$/export_cda.xml" afterPath="$PROJECT_DIR$/export_cda.xml" />
-      <change beforePath="$PROJECT_DIR$/read_my_workout_yanis.ipynb" afterPath="$PROJECT_DIR$/read_my_workout_yanis.ipynb" />
-    </list>
+    <list default="true" id="ab2e6720-7734-4e0b-9049-eda8b6426db1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
